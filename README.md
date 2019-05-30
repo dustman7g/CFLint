@@ -49,7 +49,7 @@ If you want to use CFLint from within another Maven project, use:
 <dependency>
     <groupId>com.github.cflint</groupId>
     <artifactId>CFLint</artifactId>
-    <version>1.4.0</version>
+    <version>1.4.1</version>
 </dependency>
 ```
 
@@ -67,19 +67,19 @@ With the binaries retrieved one or the other way, you can now use CFLint on the 
 
 #### Use the "-all"-version of the jar-file
 
-    CFLint-1.4.0-all.jar
+    CFLint-1.4.1-all.jar
 
 #### Scan a folder with the complete set of rules
 
-    java -jar CFLint-1.4.0-all.jar -folder <baseFolder>
+    java -jar CFLint-1.4.1-all.jar -folder <baseFolder>
 
 #### Scan a file with the complete set of rules
 
-    java -jar CFLint-1.4.0-all.jar -file <fullPathToFile>
+    java -jar CFLint-1.4.1-all.jar -file <fullPathToFile>
 
 #### See parameters and help
 
-    java -jar CFLint-1.4.0-all.jar -help
+    java -jar CFLint-1.4.1-all.jar -help
 
 # User manual
 
